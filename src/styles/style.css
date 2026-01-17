@@ -22,7 +22,7 @@ body {
   justify-items: center;
 }
 
-.hero { 
+.hero {
   display: grid;
   gap: .8rem;
   text-align: center;
@@ -88,8 +88,7 @@ body {
   font-size: 1rem;
 }
 
-#set-up-form input[id="p1-name"] 
-.set-up-form input#p1-name {
+#set-up-form input[id="p1-name"] .set-up-form input#p1-name {
   background-color: #31c4be;
   box-shadow: 0 5px #138a89;
 }
